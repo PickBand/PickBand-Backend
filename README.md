@@ -1,1 +1,1 @@
-# -PickBand-Backend
+# PickBand-Backend
